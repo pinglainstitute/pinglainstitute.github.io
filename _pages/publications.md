@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Pingla Institute - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Pingla Institute -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,9 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+
+You can find the [full list](#full-list-of-publications) at the end. Many papers are also available on [UNSW Research site](https://research.unsw.edu.au/people/dr-rohitash-chandra/publications).
+
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
