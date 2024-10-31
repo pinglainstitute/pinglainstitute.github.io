@@ -6,8 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-**News: Pingla registered in both Australia and Fiji!** We will be developing a curriculum in Artificial Intelligence and Hindu Studies.
-
+**News: Pingla registered in both Australia and Fiji!** 
+We are developing our research program. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -52,22 +52,5 @@ permalink: /
   </a>
 </div>
 
+The Pingla Institute is an independent non-profit research institute devoted to multidisciplinary research. Our current focus is research in areas of Artificial Intelligence, Machine Learning, Natural Language Processing, Hindu Studies, and Comparative Religion.
 
-We are a distributed international research non-profit organisation.
-
-Our aim is to develop student and research projects that span computer science
-and the humanities. See our [Research](research)) page for projects. 
-
-We are activity seeking funding for research projects.
-
- **We are also looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
