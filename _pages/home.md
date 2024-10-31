@@ -51,12 +51,15 @@ We are developing our research program.
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+<p>
 The Pingla Institute is an independent non-profit research institute devoted to multidisciplinary research. Our current focus is research in areas of Artificial Intelligence, Machine Learning, Natural Language Processing, Hindu Studies, and Comparative Religion.
-
+</p>
+<p> &nbsp; </p>
+<p>
 We have active research projects in time-series modelling, applications and analysis of 
 large language models, economic and environmental data analysis, natural language processing
 applied to religuous texts and commentary on social media.
- 
+</p>
 
+<p> &nbsp; </p>
 
