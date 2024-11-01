@@ -19,6 +19,7 @@ We are developing our research program.
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
@@ -42,7 +43,7 @@ We are developing our research program.
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_5.jpeg" alt="Slide 6" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_6.jpeg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_6.png" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -54,6 +55,8 @@ We are developing our research program.
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+
 <p>
 The Pingla Institute is an independent non-profit research institute devoted to multidisciplinary research. Our current focus is research in areas of Artificial Intelligence, Machine Learning, Natural Language Processing, Hindu Studies, and Comparative Religion.
 </p>
