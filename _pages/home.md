@@ -1,6 +1,6 @@
 ---
 title: "Pingla Institute - Home"
-layout: homelay
+layout: textlay
 excerpt: "Pingla Institute"
 sitemap: false
 permalink: /
