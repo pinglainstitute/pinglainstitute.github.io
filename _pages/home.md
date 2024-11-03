@@ -5,9 +5,7 @@ excerpt: "Pingla Institute"
 sitemap: false
 permalink: /
 ---
-
-**News: Pingla registered in both Australia and Fiji!** 
-We are developing our research program. 
+ 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
