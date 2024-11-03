@@ -12,6 +12,18 @@
   photo:  
   info: Director
   email: akarpe@swinburne.edu.au
+
+  
+- name: Kush Singh
+  photo:  
+  info: Director
+  email:  
+ 
+  
+- name: Elvin Prasad
+  photo:  
+  info: Director
+  email:   
   
 - name: Dr John Hawkins
   photo: John.jpg
@@ -28,24 +40,15 @@
   info: Research Director for AI in Geoscience and Remote Sensing <a href="https://scholar.google.com.au/citations?user=wLpKvMoAAAAJ&hl=en"> Google Scholar </a>  <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/e-farahbakhsh.html"> Web </a> 
   email: e.farahbakhsh@sydney.edu.au
 
-- name: Sushrut Badhe
-  photo:  
-  info: Member
-  email:  
-
-- name: Kush Singh
-  photo:  
-  info: Member
-  email:  
- 
-  
-- name: Elvin Prasad
-  photo:  
-  info: Member
-  email:   
-  
 - name: Prof. Christian Omlin
   photo:  
-  info: Member
+  info: Research Director for AI in Humanities
   email:  
+
+- name: Sushrut Badhe
+  photo:  
+  info: Research Director for Hindu Studies
+  email:  
+
+  
   
