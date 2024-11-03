@@ -9,11 +9,8 @@ permalink: /
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
+    <ol class="carousel-indicators"> 
+        <li data-target="#carousel" data-slide-to="active"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
@@ -24,16 +21,7 @@ permalink: /
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-      <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_0x.png" alt="Slide 1" />
-      </div>
-      <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_1x.jpg" alt="Slide 2" />
-      </div>
-      <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_2x.jpg" alt="Slide 3" />
-      </div>
-      <div class="item">
+      <div class="item active"> 
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_3.jpg" alt="Slide 4" />
       </div>
       <div class="item">
