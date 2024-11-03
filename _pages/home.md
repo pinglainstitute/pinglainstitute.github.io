@@ -11,15 +11,12 @@ permalink: /
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
+   
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
-        <li data-target="#carousel" data-slide-to="8"></li>
-        <li data-target="#carousel" data-slide-to="9"></li>
+        <li data-target="#carousel" data-slide-to="8"></li> 
     </ol>
 
     <!-- Items -->
@@ -64,13 +61,13 @@ permalink: /
 
 
 <p>
-The Pingla Institute is an independent non-profit research institute devoted to multidisciplinary research. Our current focus is research in areas of Artificial Intelligence, Machine Learning, Natural Language Processing, Hindu Studies, and Comparative Religion.
+The Pingla Institute is an independent non-profit research institute devoted to multidisciplinary research. Our current focus is research in areas of Artificial Intelligence, Machine Learning, Natural Language Processing, Hindu Studies, and Philosophy of Religion.
 </p>
 <p> &nbsp; </p>
 <p>
 We have active research projects in time-series modelling, applications and analysis of 
-large language models, economic and environmental data analysis, natural language processing
-applied to religuous texts and commentary on social media.
+large language models, economic and environmental data analysis, natural language processing, machine translation analysis, 
+ and social media analysis.
 </p>
 
 <p> &nbsp; </p>
