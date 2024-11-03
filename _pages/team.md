@@ -77,6 +77,11 @@ permalink: /team/
 
 
 ### Council of Experts
+
+* Prof. Bibhya Sharma, University of the South Pacific (Fiji)
+* Saman Forouzandeh, UNSW Sydney
+
+
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
