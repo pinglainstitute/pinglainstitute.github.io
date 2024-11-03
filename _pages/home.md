@@ -25,13 +25,13 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
       <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_0.png" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_0x.png" alt="Slide 1" />
       </div>
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_1.jpg" alt="Slide 2" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_1x.jpg" alt="Slide 2" />
       </div>
       <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_2.jpg" alt="Slide 3" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_2x.jpg" alt="Slide 3" />
       </div>
       <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider_3.jpg" alt="Slide 4" />
