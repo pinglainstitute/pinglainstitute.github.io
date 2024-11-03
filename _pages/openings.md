@@ -8,12 +8,8 @@ permalink: /vacancies
 
 ## Research programme
 
-We are currently helping supervise HDR positions (PhD/Masters/Honours) in our group 
-provided you bring your own scholarship or apply for UNSW PhD Scholarship. 
-Please note UNSW PhD Scholarship is very competitive and requires a Master's by Research 
-thesis with a good GPA and at least a first-authored paper in a Q1 journal. 
-More info: https://www.unsw.edu.au/research/hdr/scholarships
-
+We are open to externally supervising HDR  PhD/Masters/Honours students in our group 
+provided you can fund your study programme.  Below are some of the research directions and topics that can be pursued:
 ### Potential thesis topics
 
 * Explainable deep learning with uncertainty quantification and   -- with Dr Rohitash Chandra and Prof. Christian Omlin (University of Agder, Norway)
