@@ -70,9 +70,13 @@ permalink: /team/
 {% endif %}
 
 
+### Professional Staff
+ 
+  
+### Research Interns
 
 
-## Council of Experts
+### Council of Experts
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -127,15 +131,13 @@ permalink: /team/
 {% endif %}
 
 
-## Affiliated Research Students
- 
-  
-## Research Interns
+
+### Collaborators  
 
 
-## Research Alumni  
+
+### Research Alumni  
  
-## Collaborators  
 
  
  We are  looking for new researchers to join the team. 
