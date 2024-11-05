@@ -22,7 +22,7 @@ provided you can fund your study programme.  Below are some of the research dire
 * Bayesian deep learning for robot path planning -- with Dr Rohitash Chandra and Prof. Bibhya Sharma (University of the South Pacific, Fiji)
 * Data augmentation and deep learning -- with Dr Rohitash Chandra and Dr Anurag Sharma (University of the South Pacific, Fiji)
 * Deep learning for medical diagnosis -- with Dr Rohitash Chandra and  Dr Amit Krishan Kumar (Da Nang University, Vietnam)
-* Decadal economic trends with deep learning -- with Dr Rohitash Chandra and Dr Rodney Beard (FFA, Solomon Islands) and Dr John Hawkins (Sydney)
+* Decadal economic trends with deep learning -- with Dr Rohitash Chandra and Dr Rodney Beard and Dr John Hawkins (Sydney)
 * Sentiment analysis with deep learning during natural disasters and extreme events -- with Dr Rohitash Chandra
 * Deep learning for protein function detection -- with Dr Rohitash Chandra and Prof. Alok Sharma (RIKEN, Japan)
 
