@@ -9,30 +9,30 @@
   email: ratneel.deo@sydney.edu.au
 
 - name: Dr Avinash Karpe
-  photo:  
+  photo: Avinash.jpeg 
   info: Director
   email: akarpe@swinburne.edu.au
 
   
 - name: Kush Singh
-  photo:  
+  photo: Kush.jpeg
   info: Director
   email:  
  
   
 - name: Elvin Prasad
-  photo:  
+  photo: Elvin.jpeg
   info: Director
   email:   
   
 - name: Dr John Hawkins
   photo: John.jpg
-  info: Research Director for AI <a href="https://scholar.google.com.au/citations?user=r4gj-VgAAAAJ&hl=en"> Google Scholar </a> <a href="https://john-hawkins.github.io/"> Research Profile </a>
+  info: Research Director for AI<BR/><a href="https://scholar.google.com.au/citations?user=r4gj-VgAAAAJ&hl=en"> Google Scholar </a> <a href="https://john-hawkins.github.io/"> Research Profile </a>
   email: hawkins.john.c@gmail.com 
  
 - name: Dr Rodney Beard
   photo: Rodney.jpeg
-  info: Research Director for AI in Economics  <a href="https://scholar.google.com.au/citations?user=Sb_BJHoAAAAJ&hl=en"> Google Scholar </a> , <a href=" https://github.com/babycamel">Github</a>, <a href="http://orcid.org/0000-0001-5506-5424">Orcid</a>
+  info: Research Director for AI in Economics<BR/> <a href="https://scholar.google.com.au/citations?user=Sb_BJHoAAAAJ&hl=en"> Google Scholar </a> , <a href=" https://github.com/babycamel">Github</a>, <a href="http://orcid.org/0000-0001-5506-5424">Orcid</a>
   email: rodney.m.beard@gmail.com  
 
 - name: Dr Ehsan Farahbakhsh
@@ -41,12 +41,12 @@
   email: e.farahbakhsh@sydney.edu.au
 
 - name: Prof. Christian Omlin
-  photo:  
+  photo: Christian.jpeg
   info: Research Director for AI in Humanities
   email:  
 
 - name: Sushrut Badhe
-  photo:  
+  photo: Sushrat.jpeg
   info: Research Director for Hindu Studies
   email:  
 
