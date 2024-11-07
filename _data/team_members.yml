@@ -27,8 +27,7 @@
   
 - name: Dr John Hawkins
   photo: John.jpg
-  info: Research Director for AI<BR/><a href="https://scholar.google.com.au/citations?user=r4gj-VgAAAAJ&hl=en"> Google Scholar </a><BR/><a href="https://john-hawkins.github.io/"> Research Profile </a>
-  <BR/> <a href=" https://github.com/john-hawkins">Github</a>
+  info: Research Director for AI<BR/><a href="https://scholar.google.com.au/citations?user=r4gj-VgAAAAJ&hl=en">Google Scholar</a><BR/><a href="https://john-hawkins.github.io/">Research Profile</a><BR/> <a href=" https://github.com/john-hawkins">Github</a>
   email: hawkins.john.c@gmail.com 
  
 - name: Dr Rodney Beard
