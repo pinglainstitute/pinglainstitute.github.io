@@ -2,7 +2,7 @@
   description: Use Neural operators to predict streamflows for Australian rivers using the CAMELS-Aus data.
 
 - title: Uncertainty quantification for machine learning models
-  description: determine whether Sobol sensitivity analysis and global sensitivity analysis or conformal prediction is more robust as an approach to uncertainty quantification for a variety of machine learning methods.
+  description: Determine whether Sobol sensitivity analysis and global sensitivity analysis or conformal prediction is more robust as an approach to uncertainty quantification for a variety of machine learning methods.
  
 - title: RAG application for tuna fisheries conservation
   description: Develop a retrieval augmented generation solution for an expert system based on LLMs and the WCPFC conservation management measures for tuna fishing
