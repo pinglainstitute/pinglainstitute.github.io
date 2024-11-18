@@ -12,10 +12,12 @@ We are open to externally supervising HDR  PhD/Masters/Honours students in our g
 provided you can fund your study programme.  Below are some of the research directions and topics that can be pursued:
 ### Potential thesis topics
 
-  
+{% assign projects = site.data.projects.items %} 
 {% for title in site.data.projects %} 
 
-<li> {{ title }} </li>
+{%- for title in projects.items -%}
+                    <li>{{- title -}}</li>
+    {%- endfor -%}
 
 {% endfor %}
   
