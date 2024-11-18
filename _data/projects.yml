@@ -1,8 +1,8 @@
 - title:  Neural operators applied to predicting hydrological data from the CAMELS-Aus dataset
-  description:
+  description: Use Neural operators to predict streamflows for Australian rivers using the CAMELS-Aus data.
 
 - title: Uncertainty quantification for machine learning models
-  description:
+  description: determine whether Sobol sensitivity analysis and global sensitivity analysis or conformal prediction is more robust as an approach to uncertainty quantification for a variety of machine learning methods.
  
 - title: RAG application for tuna fisheries conservation
   description: Develop a retrieval augmented generation solution for an expert system based on LLMs and the WCPFC conservation management measures for tuna fishing
@@ -32,7 +32,7 @@
   description:
 
 - title: Submodular function learning
-  description:
+  description: Explore ways to implement submodular function learning.
 
 - title: Learning Incan Khipu
   description:
@@ -41,5 +41,5 @@
   description:
 
 - title: Predicting tuna prices
-  description:
+  description: Extend work on predicting tuna prices in various markets around the world
 
