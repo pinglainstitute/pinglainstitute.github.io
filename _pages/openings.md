@@ -13,10 +13,10 @@ provided you can fund your study programme.  Below are some of the research dire
 ### Potential thesis topics
 <div>
 {% for title in site.data.projects %} 
-<li>{{% projects.title %}}
+<li>{% projects.title %}
 </li>
 {% endfor %}
-</div>div>
+</div>
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
