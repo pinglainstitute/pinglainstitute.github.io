@@ -8,20 +8,22 @@ permalink: /vacancies
 
 ## Research programme
 
-We are open to externally supervising HDR  PhD/Masters/Honours students in our group 
-provided yos can fund your study programme.  Below are some of the research directions and topics that can be pursued:
+We are open to externally supervising HDR PhD/Masters/Honours students 
+in our group provided you can fund your study programme. 
+Below are some of the research directions and topics that can be pursued:
 
-### Potential thesis topics
+## Potential thesis topics
 
+<ul style="list-style-type:disc;">
 {% for proj in site.data.projects %}
-
-  <em>{{ proj.title }}</em> <br/>
+  <li>
+  <b>{{ proj.title }}</b><br/>
   {{ proj.description }} 
-  <br/><br/>
-
+  </li>
 {% endfor %} 
+</ul>
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/ideas.jpeg" width="95%">
 </figure>
