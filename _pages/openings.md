@@ -15,7 +15,7 @@ provided you can fund your study programme.  Below are some of the research dire
   
 {% for title in site.data.projects %} 
 
-<li>{% projects.title %}
+<li>{ projects.title }
 </li>
 
 {% endfor %}
