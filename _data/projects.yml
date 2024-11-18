@@ -1,30 +1,45 @@
-items:
-  - title:  Neural operators applied to predicting hydrological data from the CAMELS-Aus dataset
+- title:  Neural operators applied to predicting hydrological data from the CAMELS-Aus dataset
+  description:
 
-  - title: Uncertainty quantification for machine learning models
+- title: Uncertainty quantification for machine learning models
+  description:
 
-  - title: Develop a retrieval augmented generation solution for an expert system based on LLMs and the WCPFC conservation management measures for tuna fishing
+- title: Develop a retrieval augmented generation solution for an expert system based on LLMs and the WCPFC conservation management measures for tuna fishing
+  description:
 
-  - title: Comparison of different diversity measures for feature selection (machine learning) – xAI
+- title: Comparison of different diversity measures for feature selection (machine learning) – xAI
+  description:
 
-  - title: Fine-Tuning BERT Models for Literature Filtering
+- title: Fine-Tuning BERT Models for Literature Filtering
+  description:
 
-  - title: GDP with Energy Data
+- title: GDP with Energy Data
+  description:
 
-  - title: GANs for Tabular Data
+- title: GANs for Tabular Data
+  description:
 
-  - title: Machine learning applied to water quality data
+- title: Machine learning applied to water quality data
+  description:
 
-  - title: Topic modelling for AI literature
+- title: Topic modelling for AI literature
+  description:
 
-  - title: Computational social and machine learning
+- title: Computational social and machine learning
+  description:
 
-  - title: Jailbreak Detection for LLMs
+- title: Jailbreak Detection for LLMs
+  description:
 
-  - title: Submodular function learning
+- title: Submodular function learning
+  description:
 
-  - title: Learning Incan Khipu
+- title: Learning Incan Khipu
+  description:
 
-  - title: Predicitng climate change impacts on Pacific fisheries
+- title: Predicitng climate change impacts on Pacific fisheries
+  description:
 
-  - title: Predicting tuna prices
+- title: Predicting tuna prices
+  description:
+
