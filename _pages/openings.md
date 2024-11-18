@@ -13,11 +13,11 @@ provided you can fund your study programme.  Below are some of the research dire
 ### Potential thesis topics
 
 {% assign projects = site.data.projects.items %} 
-{% for title in site.data.projects %} 
+{% for item in site.data.projects %} 
 
-{%- for title in projects.items -%}
-                    <li>{{- title -}}</li>
-    {%- endfor -%}
+{% for title in projects.items %}
+                    <li>{{ title }}</li>
+    {% endfor %}
 
 {% endfor %}
   
