@@ -13,7 +13,8 @@ provided you can fund your study programme.  Below are some of the research dire
 ### Potential thesis topics
 
 {% for title in site.data.projects %} 
-<li>{% title %}
+<li>{{% title %}}
+</li>
 {% endfor %}
 
 
