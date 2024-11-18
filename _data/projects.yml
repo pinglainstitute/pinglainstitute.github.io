@@ -3,12 +3,12 @@
 
 - title: Uncertainty quantification for machine learning models
   description:
+ 
+- title: RAG application for tuna fisheries conservation
+  description: Develop a retrieval augmented generation solution for an expert system based on LLMs and the WCPFC conservation management measures for tuna fishing
 
-- title: Develop a retrieval augmented generation solution for an expert system based on LLMs and the WCPFC conservation management measures for tuna fishing
-  description:
-
-- title: Comparison of different diversity measures for feature selection (machine learning) – xAI
-  description:
+- title: Diversity measures for feature selection
+  description: Comparison of different diversity measures for feature selection (machine learning). Explainable Artificial Intelligence (xAI)
 
 - title: Fine-Tuning BERT Models for Literature Filtering
   description:
