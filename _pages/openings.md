@@ -14,7 +14,7 @@ provided yos can fund your study programme.  Below are some of the research dire
 ### Potential thesis topics
 
 {% assign projects = site.data.projects.items %} 
-{% for title in projects %}
+{% for item in projects.title %}
     <li>{{- title -}}</li>
 {% endfor %}
   
