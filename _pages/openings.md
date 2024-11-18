@@ -15,8 +15,8 @@ provided yos can fund your study programme.  Below are some of the research dire
 
 
 {% assign projects = site.data.projects.items %} 
-{% for item in projects.title %}
-    {{- title -}}
+{% for title in projects.title %}
+    <li>{{- title -}}</li>
 {% endfor %}
  
 
