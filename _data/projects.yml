@@ -1,6 +1,3 @@
-- title:  Neural operators applied to predicting hydrological data from the CAMELS-Aus dataset
-  description: Use Neural operators to predict streamflows for Australian rivers using the CAMELS-Aus data.
-
 - title: Uncertainty quantification for machine learning models
   description: Determine whether Sobol sensitivity analysis and global sensitivity analysis or conformal prediction is more robust as an approach to uncertainty quantification for a variety of machine learning methods.
  
@@ -8,16 +5,16 @@
   description: Develop a retrieval augmented generation solution for an expert system based on LLMs and the WCPFC conservation management measures for tuna fishing
 
 - title: Diversity measures for feature selection
-  description: Comparison of different diversity measures for feature selection (machine learning). Explainable Artificial Intelligence (xAI)
+  description: Conduct a large scale comparison of different diversity measures for feature selection when building machine learning systems. Include evaluation of explainable Artificial Intelligence (xAI) applications of diversity measures.
 
-- title: Fine-Tuning BERT Models for Literature Filtering
-  description:
+- title: Machine Learning Models for Literature Filtering
+  description: Extending work on building literature filtering systems to improve efficiency in systematic reviews. Selection of papers for deeper review on the basis of titles and abstracts using semantically sensitive machine learning models like pre-trained BERT systems.
 
 - title: GDP with Energy Data
-  description:
+  description: Extending our work on GDP forecasting to use time lagged information about investment in energy infrastructure, energy mix and consumption trends to improve GDP forecasting.
 
-- title: GANs for Tabular Data
-  description:
+- title:  Neural operators applied to predicting hydrological data from the CAMELS-Aus dataset
+  description: Use Neural operators to predict streamflows for Australian rivers using the CAMELS-Aus data.
 
 - title: Machine learning applied to water quality data
   description:
