@@ -13,30 +13,14 @@
 - title: GDP with Energy Data
   description: Extending our work on GDP forecasting to use time lagged information about investment in energy infrastructure, energy mix and consumption trends to improve GDP forecasting.
 
-- title:  Neural operators applied to predicting hydrological data from the CAMELS-Aus dataset
-  description: Use Neural operators to predict streamflows for Australian rivers using the CAMELS-Aus data.
-
-- title: Machine learning applied to water quality data
-  description:
-
-- title: Topic modelling for AI literature
-  description:
-
-- title: Computational social choice and machine learning
-  description:
 
 - title: Jailbreak Detection for LLMs
-  description:
+  description: There is an emerging literature on methods used to circumvent this fine tuning and access text data ingested by the foundation models. These methods are called ‘jailbreaks’ and involve using certain phrases and structures inside a prompt to elicit the desired response from the LLM. One potential solution is to train models that identify potential jailbreak attempts and prevent them from inclusion in the prompt. 
 
 - title: Submodular function learning
-  description: Explore ways to implement submodular function learning.
+  description: Explore ways to implement submodular function learning. The topic relates to questions of fairness, distributive justice, diversity but from a machine learning perspective. Possible other applications relate to substitutability and complementarity of goods in markets. 
 
 - title: Learning Incan Khipu
-  description:
+  description: The Incas used mysterious stringy objects called ‘khipus’ to record data. This project is a data science/machine learning for scientific progress project with elements of mathematical language analysis. 
 
-- title: Predicting climate change impacts on Pacific fisheries
-  description:
-
-- title: Predicting tuna prices
-  description: Extend work on predicting tuna prices in various markets around the world
 
