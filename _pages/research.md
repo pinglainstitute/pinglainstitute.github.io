@@ -6,11 +6,11 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research Programme 
+## Research Programme 
 
 The Pingla Institute is an independent non-profit research institute devoted to multidisciplinary research. Our current focus is research in areas of Artificial Intelligence, Machine Learning, Natural Language Processing, Hindu Studies, and Comparative Religion.
 
-Our overarching goal is to develop and promote a research program that spans data science, philosophy and religious studies. We are a diverse group of independent academics with strong multi-disciplinary experience and international collaborators across many fields.  
+<br/>
 
 ## Centre for Artificial Intelligence and Innovation
 
@@ -71,6 +71,8 @@ Artificial Intelligence is a field that forms one of the core spokes of cognitiv
 
 
 Theme Leaders: Dr John Hawkins, Elvin Prasad,  and Dr Rohitash Chandra
+
+<br/>
 
 ## Centre for Hindu Studies 
 
