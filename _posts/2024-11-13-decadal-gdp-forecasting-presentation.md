@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Decadal GDP Forecasting Presentation"
+summary: "Presentation by Rodney Beard; John Hawkins; Rohitash Chandra summarising the research paper 'Recursive Deep Learning Framework for Forecasting the Decadal World Economic Outlook'"
 ---
 
 # Presentation at UNSW - Recursive Deep Learning Framework for Forecasting the Decadal World Economic Outlook
