@@ -13,3 +13,11 @@ permalink: /news/
   <p>{{ post.summary }}</p>
 {% endfor %}
 
+<br/>
+<br/>
+<br/>
+<br/>
+Follow us on <a href='https://www.linkedin.com/company/pinglainstitute/'>LinkedIn</a> or <a href='https://www.facebook.com/pinglainstitute'>Facebook</a> for more.
+<br/>
+<br/>
+<br/>
