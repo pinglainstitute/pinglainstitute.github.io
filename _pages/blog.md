@@ -3,7 +3,7 @@ title: "Pingla Institute - Blog"
 layout: gridlay
 excerpt: "Pingla Institute -- Blog."
 sitemap: false
-permalink: /blog/
+permalink: /news/
 ---
 
 # Pingla Blog
