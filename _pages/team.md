@@ -71,15 +71,18 @@ permalink: /team/
 
 
 ### Professional Staff
- 
+* 2025: Tanay Panat (Research Engineer, part-time)
   
 ### Research Interns
+* 2025: Jimmy Cheung, Omkar Kulkarni, Jiaming Yang, Fangli Chen
+* 2024: Ashutosh Singh, Vamshika Sutar, Omkar Kulkarni, Ayran Chaudhari, Jahnavi Lande 
 
 
 ### Council of Experts
 
 * Prof. Bibhya Sharma, University of the South Pacific (Fiji)
-* Saman Forouzandeh, UNSW Sydney
+* Dr Kavitesh Bali (Singapore)
+* Saman Forouzandeh, RMIT Melbourne
 
 
 {% assign number_printed = 0 %}
@@ -140,8 +143,6 @@ permalink: /team/
 ### Collaborators  
 
 
-
-### Research Alumni  
  
 
  
