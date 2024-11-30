@@ -15,7 +15,7 @@
 
 
 - title: Jailbreak Detection for LLMs
-  description: There is an emerging literature on methods used to circumvent this fine tuning and access text data ingested by the foundation models. These methods are called ‘jailbreaks’ and involve using certain phrases and structures inside a prompt to elicit the desired response from the LLM. One potential solution is to train models that identify potential jailbreak attempts and prevent them from inclusion in the prompt. 
+  description: There is an emerging literature on methods used to circumvent the safety methods of LLMs and solicit undesirable content. These methods are called ‘jailbreaks’ and involve using certain phrases and structures inside a prompt to elicit the desired response from the LLM. This project involbes experimenting with machine learning approaches to identify potential jailbreak attempts and analyse what drives them. 
 
 - title: Submodular function learning
   description: Explore ways to implement submodular function learning. The topic relates to questions of fairness, distributive justice, diversity but from a machine learning perspective. Possible other applications relate to substitutability and complementarity of goods in markets. 
