@@ -1,26 +1,34 @@
 - title: Uncertainty quantification for machine learning models
+  team: Rodney Beard, John Hawkins, Karan Sutariya
   description: Determine whether Sobol sensitivity analysis and global sensitivity analysis or conformal prediction is more robust as an approach to uncertainty quantification for a variety of machine learning methods.
  
 - title: RAG application for tuna fisheries conservation
+  team: Rodney Beard, John Hawkins, Yogendra Meena, Vishal Gupta
   description: Develop a retrieval augmented generation solution for an expert system based on LLMs and the WCPFC conservation management measures for tuna fishing
 
 - title: Diversity measures for feature selection
+  team: Rodney Beard
   description: Conduct a large scale comparison of different diversity measures for feature selection when building machine learning systems. Include evaluation of explainable Artificial Intelligence (xAI) applications of diversity measures.
 
 - title: Machine Learning Models for Literature Filtering
+  team: John Hawkins
   description: Extending work on building literature filtering systems to improve efficiency in systematic reviews. Selection of papers for deeper review on the basis of titles and abstracts using semantically sensitive machine learning models like pre-trained BERT systems.
 
 - title: GDP with Energy Data
+  team: John Hawkins
   description: Extending our work on GDP forecasting to use time lagged information about investment in energy infrastructure, energy mix and consumption trends to improve GDP forecasting.
 
 
 - title: Jailbreak Detection for LLMs
+  team: Aditya Pramar, John Hawkins
   description: There is an emerging literature on methods used to circumvent the safety methods of LLMs and solicit undesirable content. These methods are called ‘jailbreaks’ and involve using certain phrases and structures inside a prompt to elicit the desired response from the LLM. This project involbes experimenting with machine learning approaches to identify potential jailbreak attempts and analyse what drives them. 
 
 - title: Submodular function learning
+  team: Rodney Beard
   description: Explore ways to implement submodular function learning. The topic relates to questions of fairness, distributive justice, diversity but from a machine learning perspective. Possible other applications relate to substitutability and complementarity of goods in markets. 
 
 - title: Learning Incan Khipu
+  team: Rodney Beard
   description: The Incas used mysterious stringy objects called ‘khipus’ to record data. This project is a data science/machine learning for scientific progress project with elements of mathematical language analysis. 
 
 
