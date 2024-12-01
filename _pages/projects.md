@@ -25,7 +25,10 @@ Below are some of the research directions and topics that can be pursued:
 {% endfor %} 
 </ul>
 
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/ideas.jpeg" width="95%">
-</figure>
+<br/>
+<br/>
+<br/>
+Please apply for an data science intern project here.
+<br/>
+<br/>
+<br/>
