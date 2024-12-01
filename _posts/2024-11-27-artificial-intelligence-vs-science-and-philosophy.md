@@ -4,7 +4,7 @@ title:  "Discussion Series: Artificial Intelligence vs Science and Philosophy"
 summary: "Discussion facilitated by Ratneel Deo between Rohitash Chandra and John Hawkins on the topic Science and Philosophy "
 ---
 
-# Discussion Series: Artificial Intelligence vs Science and Philosophy
+### Moderated discussion by Ratneel Deo between Rohitash Chandra and John Hawkins
 
 The history of academic thought begins with philosophy. The original texts were penned by philosophers in antiquity who strove to understand the complex world around them. As our ideas progressed, we formed specific disciplines founded on empirical and rational techniques that allowed intellectual progress. Nevertheless, philosophy has continued to contribute to academic thought, sometimes by just being a source of critique and analysis. One example of this is multi-disciplinary fields like cognitive science, where philosophers like Daniel Dennet and Patricia Churchland have contributed by critiquing and clarifying ideas that come from other disciplines. 
 
