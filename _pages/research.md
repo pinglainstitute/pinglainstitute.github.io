@@ -12,7 +12,6 @@ The Pingla Institute is an independent non-profit research institute devoted to 
 
 <br/>
 <br/>
-<br/>
 
 ## Centre for Artificial Intelligence and Innovation
 
@@ -74,7 +73,6 @@ Artificial Intelligence is a field that forms one of the core spokes of cognitiv
 
 Theme Leaders: Dr John Hawkins, Elvin Prasad,  and Dr Rohitash Chandra
 
-<br/>
 <br/>
 <br/>
 
