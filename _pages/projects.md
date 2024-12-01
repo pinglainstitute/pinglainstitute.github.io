@@ -19,7 +19,7 @@ Below are some of the research directions and topics that can be pursued:
 ### Projects
 
 {% for proj in site.data.projects %}
-  <h3>{{ proj.title }}</h3><br/>
+  <h4>{{ proj.title }}</h4>
   <b>Team: {{ proj.team}}</b><br/>
   {{ proj.description }} 
   <br/>
