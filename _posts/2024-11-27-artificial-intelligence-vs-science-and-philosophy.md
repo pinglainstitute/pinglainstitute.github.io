@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discussion Series: Artificial Intelligence vs Science and Philosophy"
+title:  "Artificial Intelligence vs Science and Philosophy"
 summary: "Discussion facilitated by Ratneel Deo between Rohitash Chandra and John Hawkins on the topic Science and Philosophy "
 ---
 
