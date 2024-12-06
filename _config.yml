@@ -7,7 +7,7 @@
 
 # Site settings
 title: Pingla Institute
-email: your-email@domain.com
+email: admin@pingla.org.au
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Pingla Institute
 baseurl: ""
