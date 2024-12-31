@@ -61,10 +61,33 @@ We named our research institute to pay tribute to the contributions of many anci
 <p> &nbsp; </p>
 <p> &nbsp; </p>
 
+
+#### Registration
+
+The Pingla Institute is registred under the ACCN as Comany. Australian Company Number ( ) and Australian Business Number ()
+
+We are also in the process of registering Pingla Institute in Fiji. 
+
 #### Membership
+
+Our membership consists of Regular Members and Members of the Council of Experts. Regular Members are expected to help us promote the institution and contribute to research and advocacy projects. The Council of Experts comprises academics and industry professionals who supervise research and work on community and industry-related projects. Note that you will be automatically considered a Regular Member, but Council of Experts membership will be determined upon review by the Board of Directors. Please fill out this form in order to join our [membership](https://docs.google.com/forms/d/120wW5OFqSq46KR5g32u_GSu7-5AFyCbXhkpx8_11S68/preview).
 
 
 #### Funding and Donations
+
+Any organisation will need funding to fulfil its aims and goals. We are humbly requesting donations from members and the general public to our bank account. 
+
+We would like to know how you would like us to spend your donation and you can give that as a statement narration, i.e. i. Hindu Studies, ii. Artificial Intelligence, iii. Pingla activity
+
+
+
+#### Contact
+
+Please email admin (at) pingla.org.au for any questions and suggestions. 
+
+### Social Media
+
+Please keep in touch by following our social media pages on [Facebook]() and [LinkedIn]()
 
 
 
