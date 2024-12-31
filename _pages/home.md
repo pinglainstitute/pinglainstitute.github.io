@@ -70,7 +70,7 @@ We named our research institute to pay tribute to the contributions of many anci
 
 #### Registration
 
-The Pingla Institute Ltd is registered under the [Australian Securities & Investment Commission](https://asic.gov.au/) as a Company Limited by Guarantee and a Public Company since October 2024. This essentially means that the Pingla Institute is a non-profit organisation.  Australian Company Number (681 668 940) and Australian Business Number (52 681 668 940)
+The Pingla Institute Ltd has been registered under the [Australian Securities & Investment Commission](https://asic.gov.au/) as a Company Limited by Guarantee and a Public Company since October 2024. This essentially means that the Pingla Institute is a non-profit organisation.  Australian Company Number (681 668 940) and Australian Business Number (52 681 668 940)
 
 We are also in the process of registering Pingla Institute in Fiji. 
 
