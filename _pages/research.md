@@ -20,6 +20,8 @@ Learn more about our research program through the pages for our two dedicated
 research centres:
 * [Centre for Artificial Intelligence and Innovation](/caii)
 * [Centre for Hindu Studies](/chs)
+
+Students and researchers interested in collaboration and our online research internship programme can apply via [this form](https://forms.gle/3z5Tj9tVXeoGP5Vs9). 
  
 <br/>
 <br/>
