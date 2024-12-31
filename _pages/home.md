@@ -70,7 +70,7 @@ We named our research institute to pay tribute to the contributions of many anci
 
 #### Registration
 
-The Pingla Institute Ltd has been registered under the [Australian Securities & Investment Commission](https://asic.gov.au/) as a Company Limited by Guarantee and a Public Company since October 2024. This essentially means that the Pingla Institute is a non-profit organisation.  Australian Company Number (681 668 940) and Australian Business Number (52 681 668 940)
+The Pingla Institute Ltd is registered under the [Australian Securities & Investment Commission](https://asic.gov.au/) as a Company Limited by Guarantee and a Public Company since October 2024. This essentially means that the Pingla Institute is a non-profit organisation.  Australian Company Number (681 668 940) and Australian Business Number (52 681 668 940)
 
 We are also in the process of registering Pingla Institute in Fiji. 
 
@@ -83,14 +83,15 @@ Our membership consists of Regular Members and Members of the Council of Experts
 
 Any organisation will need funding to fulfil its aims and goals. We are humbly requesting donations from members and the general public to our bank account with the following details. 
 
-* Account Name:
-* Bank: Westpac Banking Corporation:
+* Account Name: Pingla Institute Ltd
+* Bank: Westpac Banking Corporation
 * Address: Bondi Junction, Sydney, Australia
-* Account Number:
-* BSB:
+* Account Number: 173429
+* BSB: 032066
+* BIC/SWIFT: WPACAU2S (WPACAU2SXXX)
 
 
-We would like to know how you would like us to spend your donation and you can give that as a statement narration, i.e. i. Hindu Studies, ii. Artificial Intelligence, iii. Pingla activity
+We would like to know how you would like us to spend your donation and you can give that as a statement narration, i.e. i. Hindu Studies, ii. Artificial Intelligence, iii. any Pingla activity
 
 
 #### Contact
