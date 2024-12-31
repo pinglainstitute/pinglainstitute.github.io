@@ -46,8 +46,6 @@ permalink: /
 <p>
 The Pingla Institute is an independent non-profit research institute devoted to multidisciplinary research. Our current focus is research in areas of Artificial Intelligence, Machine Learning, Natural Language Processing, Hindu Studies, and Philosophy of Religion. Our leadership comprises [academics and industry professionals](https://pingla.org.au/team/) with regional and international reputations and experience. 
 </p>
-<p> &nbsp; </p>
-<p>
  
 #### Research
 We have active research projects in time-series modelling, applications and analysis of 
@@ -57,15 +55,11 @@ large language models, economic and environmental data analysis, natural languag
 *  [Centre for Artificial Intelligence and Innovation](https://pingla.org.au/caii/)
 *  [Centre for Hindu Studies](https://pingla.org.au/chs/)
   
-</p>
 
 #### Vision and Significance
 <p>
 We named our research institute to pay tribute to the contributions of many ancient and modern scientists and philosophers. The Pingla Institute is named after ancient Indian philosopher, poet and mathematician [Archarya Pingla](https://en.wikipedia.org/wiki/Pingala) (3rd Century BCE) who laid the foundations of the [binary number system](https://en.wikipedia.org/wiki/Binary_number)  that serves as the backbone of modern computing and artificial intelligence. Archarya Pingla also contributed to Sanskrit prosody ([Vedanga](https://en.wikipedia.org/wiki/Vedanga)), also known as the limbs of the  [Vedas](https://en.wikipedia.org/wiki/Vedas). The Vedas are sacred and the oldest set of Hindu texts.  Archarya Pingla as a polymath well represents Pingla Institue's core multidisciplinary research vision enabling the convergence of science, philosophy and spirituality.
-</p>
-
-<p> &nbsp; </p>
-<p> &nbsp; </p>
+</p> 
 
 
 #### Registration
