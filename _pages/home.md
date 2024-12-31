@@ -44,13 +44,18 @@ permalink: /
 
 #### About
 <p>
-The Pingla Institute is an independent non-profit research institute devoted to multidisciplinary research. Our current focus is research in areas of Artificial Intelligence, Machine Learning, Natural Language Processing, Hindu Studies, and Philosophy of Religion.
+The Pingla Institute is an independent non-profit research institute devoted to multidisciplinary research. Our current focus is research in areas of Artificial Intelligence, Machine Learning, Natural Language Processing, Hindu Studies, and Philosophy of Religion. Our leadership comprises [academics and industry professionals](https://pingla.org.au/team/) with regional and international reputations and experience. 
 </p>
 <p> &nbsp; </p>
 <p>
+#### Research
 We have active research projects in time-series modelling, applications and analysis of 
 large language models, economic and environmental data analysis, natural language processing, machine translation analysis, 
- and social media analysis.
+ and social media analysis. We have the following active research centres:
+
+* [Centre for Artificial Intelligence and Innovation](https://pingla.org.au/caii/)
+* [Centre for Hindu Studies](https://pingla.org.au/chs/)
+  
 </p>
 
 #### Vision and Significance
@@ -64,7 +69,7 @@ We named our research institute to pay tribute to the contributions of many anci
 
 #### Registration
 
-The Pingla Institute is registred under the ACCN as Comany. Australian Company Number ( ) and Australian Business Number ()
+The Pingla Institute Ltd has been registered under the [Australian Securities & Investment Commission](https://asic.gov.au/) as a Company Limited by Guarantee and a Public Company since October 2024. This essentially means that the Pingla Institute is a non-profit organisation.  Australian Company Number (681 668 940) and Australian Business Number (52 681 668 940)
 
 We are also in the process of registering Pingla Institute in Fiji. 
 
@@ -75,10 +80,16 @@ Our membership consists of Regular Members and Members of the Council of Experts
 
 #### Funding and Donations
 
-Any organisation will need funding to fulfil its aims and goals. We are humbly requesting donations from members and the general public to our bank account. 
+Any organisation will need funding to fulfil its aims and goals. We are humbly requesting donations from members and the general public to our bank account with the following details. 
+
+* Account Name:
+* Bank: Westpac Banking Corporation:
+* Address: Bondi Junction, Sydney, Australia
+* Account Number:
+* BSB:
+
 
 We would like to know how you would like us to spend your donation and you can give that as a statement narration, i.e. i. Hindu Studies, ii. Artificial Intelligence, iii. Pingla activity
-
 
 
 #### Contact
@@ -87,7 +98,7 @@ Please email admin (at) pingla.org.au for any questions and suggestions.
 
 ### Social Media
 
-Please keep in touch by following our social media pages on [Facebook]() and [LinkedIn]()
+Please keep in touch by following our social media pages on [Pingla Institute](https://www.facebook.com/pinglainstitute) and [Pingla Centre for Hindu Studies](https://www.facebook.com/pinglahinducentre) on Facebook. We also have a presence on  [LinkedIn](https://www.linkedin.com/company/pinglainstitute/) and are in the process of opening our YouTube Channel. 
 
 
 
