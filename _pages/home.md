@@ -48,13 +48,14 @@ The Pingla Institute is an independent non-profit research institute devoted to 
 </p>
 <p> &nbsp; </p>
 <p>
+ 
 #### Research
 We have active research projects in time-series modelling, applications and analysis of 
 large language models, economic and environmental data analysis, natural language processing, machine translation analysis, 
  and social media analysis. We have the following active research centres:
 
-* [Centre for Artificial Intelligence and Innovation](https://pingla.org.au/caii/)
-* [Centre for Hindu Studies](https://pingla.org.au/chs/)
+*  [Centre for Artificial Intelligence and Innovation](https://pingla.org.au/caii/)
+*  [Centre for Hindu Studies](https://pingla.org.au/chs/)
   
 </p>
 
