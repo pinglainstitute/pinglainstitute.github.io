@@ -96,7 +96,7 @@ We would like to know how you would like us to spend your donation and you can g
 
 Please email admin (at) pingla.org.au for any questions and suggestions. 
 
-### Social Media
+#### Social Media
 
 Please keep in touch by following our social media pages on [Pingla Institute](https://www.facebook.com/pinglainstitute) and [Pingla Centre for Hindu Studies](https://www.facebook.com/pinglahinducentre) on Facebook. We also have a presence on  [LinkedIn](https://www.linkedin.com/company/pinglainstitute/) and are in the process of opening our YouTube Channel. 
 
