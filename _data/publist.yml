@@ -8,9 +8,9 @@
   highlight: 0  
 
 - title: "HP-BERT: A framework for longitudinal study of Hinduphobia on social media via language models"
-  image:
+  image: hinduphobia.png
   authors: Singh, A., & Chandra, R.
-  description:
+  description: We present a computational framework for analyzing anti-Hindu sentiment (Hinduphobia) during the COVID-19 period, introducing an abuse detection and sentiment analysis approach for longitudinal analysis on X. 
   link:
     url: https://ieeexplore.ieee.org/abstract/document/11192418
     display: IEEE Access, vol. 13, pp. 175309-175335, 2025, https://doi.org/10.1109/ACCESS.2025.3617514
