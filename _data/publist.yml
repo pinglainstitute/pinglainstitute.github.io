@@ -1,5 +1,5 @@
 - title: "Longitudinal abuse and sentiment analysis of Hollywood movie dialogues using language models"
-  image:
+  image: hollywood.png
   authors: Chandra, R., & Ren, G.
   description: Used LLMs for sentiment and abuse analysis of Hollywood movie dialogues. Analyzed 1,000+ movie subtitles to track trends in emotion and abuse
   link: 
