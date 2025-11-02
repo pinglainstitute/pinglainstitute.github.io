@@ -5,7 +5,7 @@
   link: 
     url: https://www.sciencedirect.com/science/article/pii/S266682702500132X
     display: Machine Learning with Applications, Volume 22, December 2025, 100749
-  highlight: 1  
+  highlight: 0  
 
 - title: "Enigme: Generative Text Puzzles for Evaluating Reasoning in Language Models"
   image: enigme.jpeg
@@ -14,7 +14,7 @@
   link:
     url: https://ieeexplore.ieee.org/document/11088210
     display: 11th ICEAST , Phuket, Thailand, 2025, pp. 117-121, doi: 10.1109/ICEAST64767.2025.11088210.
-  highlight: 1
+  highlight: 0
 
 - title: "An Analysis of Vaccine-Related Sentiments on Twitter (X) from Development to Deployment of COVID-19 Vaccines"
   image: vaccine_polarity.png
