@@ -7,13 +7,13 @@
     display: Machine Learning with Applications, Volume 22, December 2025, 100749
   highlight: 1  
 
-- title: "Unsupervised Machine Learning Framework for Identification of Spatial Distribution of Minerals on Mars."
+- title: "Unsupervised Machine Learning Framework for Identification of Spatial Distribution of Minerals on Mars"
   image: mars.png
   authors: Lovelock, Tejay, and Rohitash Chandra
   description: We present a machine learning framework to map the spatial distribution of minerals on Mars. Our framework utilises the Self-Organising Map and k-means clustering to identify clusters of spectral signatures of minerals.
   link:
     url: https://doi.org/10.3390/rs17213578
-    display: Remote Sensing 17.21 (2025): 3578 https://doi.org/10.3390/rs17213578
+    display: Remote Sensing 17 (21) (2025) 3578 https://doi.org/10.3390/rs17213578
   highlight: 1
 
 - title: "HP-BERT: A framework for longitudinal study of Hinduphobia on social media via language models"
