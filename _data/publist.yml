@@ -25,6 +25,15 @@
     display: IEEE Access, vol. 13, pp. 175309-175335, 2025, https://doi.org/10.1109/ACCESS.2025.3617514
   highlight: 1
 
+  -title: "An Evaluation of LLMs and Google Translate for Translation of Selected Indian Languages via Sentiment and Semantic Analyses"
+   image: indianlanguage.pdf
+   authors: R. Chandra, A. Chaudhari and Y. Rayavarapu
+   description: This study addresses this limitation by using semantic and sentiment analysis of selected LLMs for Indian languages, including Sanskrit, Telugu and Hindi. We select prominent texts (Bhagavad Gita, Tamas and Maha Prasthanam) that have been well translated by experts and use LLMs to generate their translations into English, and provide a comparison with selected expert (human) translations.
+   link:
+     url: https://doi.org/10.1109/ACCESS.2025.3585629
+     display: IEEE Access, vol. 13, pp. 122386-122407, 2025, https://doi.org/10.1109/ACCESS.2025.3585629
+   highlight: 1
+
 - title: "Enigme: Generative Text Puzzles for Evaluating Reasoning in Language Models"
   image: enigme.jpeg
   authors: John Hawkins
