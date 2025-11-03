@@ -18,7 +18,6 @@
   team: John Hawkins
   description: Extending our work on GDP forecasting to use time lagged information about investment in energy infrastructure, energy mix and consumption trends to improve GDP forecasting.
 
-
 - title: Jailbreak Detection for LLMs
   team: Aditya Pramar, John Hawkins
   description: There is an emerging literature on methods used to circumvent the safety methods of LLMs and solicit undesirable content. These methods are called ‘jailbreaks’ and involve using certain phrases and structures inside a prompt to elicit the desired response from the LLM. This project involves experimenting with machine learning approaches to identify potential jailbreak attempts and analyse what drives them. 
