@@ -3,7 +3,7 @@
   description: Determine whether Sobol sensitivity analysis and global sensitivity analysis or conformal prediction is more robust as an approach to uncertainty quantification for a variety of machine learning methods.
  
 - title: RAG application for tuna fisheries conservation
-  team: Rodney Beard, John Hawkins, Yogendra Meena, Vishal Gupta
+  team: Rodney Beard, John Hawkins, Jiaming Yang
   description: Develop a retrieval augmented generation solution for an expert system based on LLMs and the WCPFC conservation management measures for tuna fishing
 
 - title: Diversity measures for feature selection
@@ -27,8 +27,7 @@
   team: Rodney Beard
   description: Explore ways to implement submodular function learning. The topic relates to questions of fairness, distributive justice, diversity but from a machine learning perspective. Possible other applications relate to substitutability and complementarity of goods in markets. 
 
-- title: Learning Incan Khipu
+- title: Using LLMs to study economic impacts of emotions
   team: Rodney Beard
-  description: The Incas used mysterious stringy objects called ‘khipus’ to record data. This project is a data science/machine learning for scientific progress project with elements of mathematical language analysis. 
-
+  description: We combine literature from behavioural economics on emotions to study emotional responses in LLMs and analyze the results using sentiment analysis
 
