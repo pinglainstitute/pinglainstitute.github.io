@@ -6,6 +6,7 @@
     url: https://www.sciencedirect.com/science/article/pii/S266682702500132X
     display: Machine Learning with Applications, Volume 22, December 2025, 100749
   highlight: 1  
+  preprint: 0
 
 - title: "Unsupervised Machine Learning Framework for Identification of Spatial Distribution of Minerals on Mars"
   image: mars.png
@@ -15,6 +16,7 @@
     url: https://doi.org/10.3390/rs17213578
     display: Remote Sensing 17 (21) (2025) 3578 https://doi.org/10.3390/rs17213578
   highlight: 1
+  preprint: 0
 
 - title: "HP-BERT: A framework for longitudinal study of Hinduphobia on social media via language models"
   image: hinduphobia.png
@@ -24,6 +26,7 @@
     url: https://ieeexplore.ieee.org/abstract/document/11192418
     display: IEEE Access, vol. 13, pp. 175309-175335, 2025, https://doi.org/10.1109/ACCESS.2025.3617514
   highlight: 1
+  preprint: 0
 
 - title: "An Evaluation of LLMs and Google Translate for Translation of Selected Indian Languages via Sentiment and Semantic Analyses"
   image: indianlanguage.png
@@ -33,6 +36,7 @@
     url: https://doi.org/10.1109/ACCESS.2025.3585629
     display: IEEE Access, vol. 13, pp. 122386-122407, 2025, https://doi.org/10.1109/ACCESS.2025.3585629
   highlight: 1
+  preprint: 0
 
 - title: "Enigme: Generative Text Puzzles for Evaluating Reasoning in Language Models"
   image: enigme.jpeg
@@ -42,6 +46,7 @@
     url: https://ieeexplore.ieee.org/document/11088210
     display: 11th ICEAST , Phuket, Thailand, 2025, pp. 117-121, https://doi.org/0.1109/ICEAST64767.2025.11088210.
   highlight: 0
+  preprint: 0
 
 - title: "An Analysis of Vaccine-Related Sentiments on Twitter (X) from Development to Deployment of COVID-19 Vaccines"
   image: vaccine_polarity.png
@@ -51,6 +56,7 @@
     url: https://doi.org/10.3390/bdcc8120186
     display: Big Data Cogn. Comput. 2024, 8(12), 186; https://doi.org/10.3390/bdcc8120186   
   highlight: 1
+  preprint: 0 
 
 - title: "Science and Hinduism share the vision of a quest for truth"
   image: white_flower.png
@@ -60,7 +66,8 @@
     url: https://doi.org/10.1038/s41562-024-02055-8
     display: Nature Human Behaviour, World View (2024)
   highlight: 1
-  
+  preprint: 0
+
 - title: "Recursive Deep Learning Framework for Forecasting the Decadal World Economic Outlook"
   image: recursive.png
   description: The gross domestic product (GDP) is the most widely used indicator in macroeconomics and the main tool for measuring a country’s economic output. Due to the diversity and complexity of the world economy, a wide range of models have been used, but there are challenges in making decadal GDP forecasts given unexpected changes such as emergence of catastrophic world events including pandemics and wars. Deep learning models are well suited for modelling temporal sequences and time series forecasting. In this paper, we develop a deep learning framework to forecast the GDP growth rate of the world economy over a decade. We use the Penn World Table as the data source featuring 13 countries prior to the COVID-19 pandemic, such as Australia, China, India, and the United States. We present a recursive deep learning framework to predict the GDP growth rate in the next ten years. We test prominent deep learning models and compare their results with traditional econometric models for selected developed and developing countries. Our decadal forecasts reveal that that most of the developed countries would experience economic growth slowdown, stagnation and even recession within five years (2020-2024). Furthermore, our model forecasts show that only China, France, and India would experience stable GDP growth.
@@ -69,4 +76,15 @@
     url: https://ieeexplore.ieee.org/abstract/document/10704677
     display: IEEE Access, Volume 12, 2024
   highlight: 0
+  preprint: 0
+
+- title: "Improving AGI Evaluation: A Data Science Perspective"
+  image: 
+  authors: John Hawkins
+  description: Evaluation of potential AGI systems and methods is difficult due to the breadth of the engineering goal. We have no methods for perfect evaluation of the end state, and instead measure performance on small tests designed to provide directional indication that we are approaching AGI. In this work we argue that AGI evaluation methods have been dominated by a design philosophy that uses our intuitions of what intelligence is to create synthetic tasks, that have performed poorly in the history of AI. Instead we argue for an alternative design philosophy focused on evaluating robust task execution that seeks to demonstrate AGI through competence. This perspective is developed from common practices in data science that are used to show that a system can be reliably deployed. We provide practical examples of what this would mean for AGI evaluation. 
+  link:
+    url: https://arxiv.org/abs/2510.01687
+    display: https://arxiv.org/abs/2510.01687
+  highlight: 0
+  preprint: 1
 
