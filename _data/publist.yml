@@ -88,7 +88,7 @@
   highlight: 0
   preprint: 1
 
-- title "NLP Methods for Detecting Novel LLM Jailbreaks and Keyword Analysis with BERT"
+- title: "NLP Methods for Detecting Novel LLM Jailbreaks and Keyword Analysis with BERT"
   image:
   authors: Hawkins, J.; Pramar, A.; Beard, R.; Chandra, R.
   description: In this study, we analyse the ability of different machine learning models to distinguish jailbreak prompts from genuine uses, including looking at our ability to identify jailbreaks that use previously unseen strategies. Our results indicate that using current datasets the best performance is achieved by fine tuning a Bidirectional Encoder Representations from Transformers (BERT) model end-to-end for identifying jailbreaks. We visualise the keywords that distinguish jailbreak from genuine prompts and conclude that explicit reflexivity in prompt structure could be a signal of jailbreak intention
