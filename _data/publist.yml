@@ -117,3 +117,15 @@
     display: SSRN, 2025. https://dx.doi.org/10.2139/ssrn.5081857
   highlight: 0
   preprint: 1
+
+- title: "Ensemble quantile-based deep learning framework for streamflow and flood prediction in Australian catchments"
+  image:
+  authors: Chandra, R., Kapoor, A., Khedkar, S., Ng, J., & Vervoort, R. W.
+  description: We present an ensemble quantile-based deep learning framework that addresses large-scale streamflow forecasts using quantile regression for uncertainty projections in prediction. We evaluate selected univariate and multivariate deep learning models and catchment strategies. Furthermore, we implement a multistep time-series prediction model using the CAMELS dataset for selected catchments across Australia. The ensemble model employs a set of quantile deep learning models for streamflow determined by historical streamflow data. We utilise the streamflow prediction and obtain flood probability using flood frequency analysis and compare it with historical flooding events for selected catchments. 
+  link: 
+    url: https://doi.org/10.48550/arXiv.2407.15882
+    display: arXiv preprint arXiv:2407.15882, 2025.
+  highlight: 0
+  preprint: 1
+
+   
