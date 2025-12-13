@@ -1,3 +1,13 @@
+- title: "Evaluation of google translate for Mandarin Chinese translation using sentiment and semantic analysis"
+  image: mandarin1.png
+  authors: Xuechun Wang, Rodney Beard, Rohitash Chandra
+  description: In this study, we provide an automated assessment of the translation quality of Google Translate with human experts using sentiment and semantic analysis. In order to demonstrate our framework, we select the classic early twentieth-century novel ’The True Story of Ah Q’ with selected Mandarin Chinese to English translations. We use Google Translate to translate the given text into English and then conduct a chapter-wise sentiment analysis and semantic analysis to compare the extracted sentiments across the different translations. Our results indicate that the precision of Google Translate differs both in terms of semantic and sentiment analysis when compared to human expert translations. We find that Google Translate is unable to translate some of the specific words or phrases in Chinese, such as Chinese traditional idiomatic expressions. The mistranslations may be due to a lack of contextual significance and historical knowledge of China.
+  link: 
+    url: https://doi.org/10.1016/j.nlp.2025.100188
+    display: Natural Language Processing Journal, Volume 13, December 2025, 100188 
+  highlight: 1
+  preprint: 0
+  
 - title: "Longitudinal abuse and sentiment analysis of Hollywood movie dialogues using language models"
   image: hollywood.png
   authors: Chandra, R., & Ren, G.
