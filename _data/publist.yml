@@ -88,6 +88,16 @@
   highlight: 0
   preprint: 0
 
+- title: "An evaluation of LLMs for political bias in Western media: Israel-Hamas and Ukraine-Russia wars"
+  image:
+  authors: Rohitash Chandra, Haoyan Chen, Yaqing Zhang, Jiacheng Chen, Yuting Wu
+  description: n this study, we utilise LLMs to compare the left-wing, right-wing, and neutral political opinions expressed in the Guardian and BBC. We review newspaper reporting that includes significant events such as the Russia-Ukraine war and the Hamas-Israel conflict. We analyse the proportion for each opinion to find the bias under different LLMs, including BERT, Gemini, and DeepSeek. 
+  link:
+    url: https://doi.org/10.48550/arXiv.2601.06132
+    display: arXiV, 2026. arXiv:2601.06132 [cs.CY]
+  highlight: 0
+  preprint: 1
+  
 - title: "Improving AGI Evaluation: A Data Science Perspective"
   image: 
   authors: John Hawkins
