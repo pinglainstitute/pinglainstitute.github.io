@@ -88,10 +88,20 @@
   highlight: 0
   preprint: 0
 
+- title: "Abusive music and song transformation using GenAI and LLMs"
+  image:
+  authors: Jiyang Choi, Rohitash Chandra
+  description: We present a comparative analysis of four selected English songs and their transformed counterparts, evaluating changes through both acoustic and sentiment-based lenses. Our findings indicate that Gen-AI significantly reduces vocal aggressiveness, with acoustic analysis showing improvements in Harmonic to Noise Ratio, Cepstral Peak Prominence, and Shimmer. Sentiment analysis reduced aggression by 63.3-85.6\% across artists, with major improvements in chorus sections (up to 88.6\% reduction). The transformed versions maintained musical coherence while mitigating harmful content, offering a promising alternative to traditional content moderation that avoids triggering the "forbidden fruit" effect, where the censored content becomes more appealing simply because it is restricted.
+  link:
+    url: https://doi.org/10.48550/arXiv.2601.15348
+    display: arXiV, 2026. arXiv.2601.15348 [cs.SD]
+  highlight: 0
+  preprint: 1
+
 - title: "An evaluation of LLMs for political bias in Western media: Israel-Hamas and Ukraine-Russia wars"
   image:
   authors: Rohitash Chandra, Haoyan Chen, Yaqing Zhang, Jiacheng Chen, Yuting Wu
-  description: n this study, we utilise LLMs to compare the left-wing, right-wing, and neutral political opinions expressed in the Guardian and BBC. We review newspaper reporting that includes significant events such as the Russia-Ukraine war and the Hamas-Israel conflict. We analyse the proportion for each opinion to find the bias under different LLMs, including BERT, Gemini, and DeepSeek. 
+  description: In this study, we utilise LLMs to compare the left-wing, right-wing, and neutral political opinions expressed in the Guardian and BBC. We review newspaper reporting that includes significant events such as the Russia-Ukraine war and the Hamas-Israel conflict. We analyse the proportion for each opinion to find the bias under different LLMs, including BERT, Gemini, and DeepSeek. 
   link:
     url: https://doi.org/10.48550/arXiv.2601.06132
     display: arXiV, 2026. arXiv:2601.06132 [cs.CY]
