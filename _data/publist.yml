@@ -91,7 +91,7 @@
 - title: "Automated evaluation of LLMs for effective machine translation of Mandarin Chinese to English"
   image:
   authors: Yue Zhang, Rodney Beard, John Hawkins, Rohitash Chandra
-  description: In this paper, we utilise an automated machine learning framework featuring semantic and sentiment analysis to assess Mandarin Chinese to English translation using Google Translate and LLMs, including GPT-4, GPT-4o, and DeepSeek. We compare original and translated texts in various classes of high-profile Chinese texts, which include novel texts that span modern and classical literature, as well as news articles.   link: 
+  description: In this paper, we utilise an automated machine learning framework featuring semantic and sentiment analysis to assess Mandarin Chinese to English translation using Google Translate and LLMs, including GPT-4, GPT-4o, and DeepSeek. We compare original and translated texts in various classes of high-profile Chinese texts, which include novel texts that span modern and classical literature, as well as news articles. 
   link:  
     url: https://doi.org/10.48550/arXiv.2603.09998
     display: arXiV, 2026. arXiv:2603.09998 [cs.CL] 
