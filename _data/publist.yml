@@ -88,6 +88,16 @@
   highlight: 0
   preprint: 0
 
+- title: "Impact of a Structured Bhagavad Gita Pedagogy Intervention on Dispositional Mindfulness"
+  image:
+  description: This controlled comparative study examined the psychometric impact of a structured Bhagavad Gita pedagogy known as the ‘Rhythm of Krishna’ intervention programme. We recruited seventy-two adults who completed the specific programme, alongside a control group of seventy-two adults with no prior formal exposure to Bhagavad Gita programmes. We assessed the impact of the programme on mindfulness using the Mindful Attention Awareness Scale (MAAS). Our results demonstrate a statistically significant difference in MAAS scores between the intervention and controlgroups, with higher dispositional mindfulness and reduced score variance observed among workshop participants. These findings suggest that structured Bhagavad Gita–based pedagogy may be associated with enhanced mindful attention and awareness in adults.
+  authors: Badhe, Sushrut and Bhat, Lekha and Kandaswamy, Surabhi and Chandra, Rohitash
+  link:
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6472118
+    display: (March 26, 2026). Under Review, Available at SSRN
+  highlight: 0
+  preprint: 1
+
 - title: "Automated evaluation of LLMs for effective machine translation of Mandarin Chinese to English"
   image:
   authors: Yue Zhang, Rodney Beard, John Hawkins, Rohitash Chandra
