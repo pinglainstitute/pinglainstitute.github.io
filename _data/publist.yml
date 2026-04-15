@@ -1,3 +1,13 @@
+- title: "Landcover classification and change detection using remote sensing and machine learning: a case study of Western Fiji"
+  image: landcover1.png
+  authors: Yadvendra Gurjar, Ruoni Wen, Ehsan Farahbakhsh, Rohitash Chandra
+  description: In this study, we present a machine learning-based framework that utilises remote sensing data to analyse land use and land cover changes from 2013 to 2024 in Nadi, Fiji. We used Landsat 8 satellite imagery for the study region and created a training dataset with labels for supervised machine learning. We use Google Earth Engine and unsupervised machine learning via K-means clustering to generate the land cover map. We utilise a framework that uses convolutional neural networks (CNNs) and compares with conventional machine learning models to classify the land cover types of the selected regions. We present a visualisation of change detection, highlighting urban area changes over time to monitor map changes. Our results indicate that the CNN model performs similarly to other machine learning models (0.96 F1-score) in terms of classification performance, but better captures the development of urban areas as verified by qualitative analysis. Our study ascertains that Nadi has experienced a rapid urbanisation process, and the expansion extended outward, taking over the sugar farms.
+  link:
+    url: https://doi.org/10.1016/j.asr.2026.03.024
+    display: Advances in Space Research, Volume 77, Issue 9, 1 May 2026, Pages 8521-8537
+  highlight: 1
+  preprint: 0
+  
 - title: "Evaluation of google translate for Mandarin Chinese translation using sentiment and semantic analysis"
   image: mandarin1.png
   authors: Xuechun Wang, Rodney Beard, Rohitash Chandra
