@@ -1,3 +1,14 @@
+- title: "Deep learning framework for craterdetection and identification on the Moon and Mars"
+  image: moonandmars.png
+  authors: Ma, Y., Guo, J.,Yu, Z. Chandra, R.
+  description: We present a framework thatfeatures a two-stage approach, where the first stage employs YOLO for crater detection andlocalisation. In the second stage, our framework features crater classification using CNN, ResNet andYOLO. Therefore, we detect and identify different types of craters and present a summary report withremote sensing data for a selected region. We consider selected regions for craters and identificationfrom Mars and the Moon based on remote sensing data. Our results indicate that YOLO demonstratesthe most balanced crater detection performance, while ResNet excels in identifying large craters withhigh precision. However, ResNet reported poor performance for large and medium craters for bothMars and the Moon, while CNN achieved the best performance for small craters on Mars
+  link:
+    url: https://doi.org/10.1038/s44453-026-00036-x
+    display: Ma, Y., Guo, J., Yu, Z. et al. Deep learning framework for crater detection and identification on the Moon and Mars. npj Space Explor. 2, 19 (2026)
+  highlight: 1
+  preprint: 0
+
+
 - title: "Landcover classification and change detection using remote sensing and machine learning: a case study of Western Fiji"
   image: landcover1.png
   authors: Yadvendra Gurjar, Ruoni Wen, Ehsan Farahbakhsh, Rohitash Chandra
