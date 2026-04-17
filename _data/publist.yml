@@ -1,4 +1,4 @@
-- title: "Deep learning framework for craterdetection and identification on the Moon and Mars"
+- title: "Deep learning framework for crater detection and identification on the Moon and Mars"
   image: moonandmars.png
   authors: Ma, Y., Guo, J.,Yu, Z. Chandra, R.
   description: We present a framework thatfeatures a two-stage approach, where the first stage employs YOLO for crater detection andlocalisation. In the second stage, our framework features crater classification using CNN, ResNet andYOLO. Therefore, we detect and identify different types of craters and present a summary report withremote sensing data for a selected region. We consider selected regions for craters and identificationfrom Mars and the Moon based on remote sensing data. Our results indicate that YOLO demonstratesthe most balanced crater detection performance, while ResNet excels in identifying large craters withhigh precision. However, ResNet reported poor performance for large and medium craters for bothMars and the Moon, while CNN achieved the best performance for small craters on Mars
@@ -65,7 +65,7 @@
   link:
     url: https://doi.org/10.1109/ACCESS.2025.3585629
     display: IEEE Access, vol. 13, pp. 122386-122407, 2025, https://doi.org/10.1109/ACCESS.2025.3585629
-  highlight: 1
+  highlight: 0
   preprint: 0
 
 - title: "Enigme: Generative Text Puzzles for Evaluating Reasoning in Language Models"
@@ -85,7 +85,7 @@
   link:
     url: https://doi.org/10.3390/bdcc8120186
     display: Big Data Cogn. Comput. 2024, 8(12), 186; https://doi.org/10.3390/bdcc8120186   
-  highlight: 1
+  highlight: 0
   preprint: 0 
 
 - title: "Science and Hinduism share the vision of a quest for truth"
