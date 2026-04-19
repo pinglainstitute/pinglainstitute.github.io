@@ -1,16 +1,7 @@
 - title: "Measuring the impact of AI on Energy and Sustainability: A guide for managers"
   image:
   authors: Beard, R.
-  decription: The chapter is organized as follows. Section 2 reviews some key papers on
-AI energy use and emissions. After this, the concept of computational complexity
-is introduced in Section 3, and an overview of results on how computationally
-intensive different AI technologies and computing technologies are is
-presented. Section 4 considers the measurement of AI impacts on energy, emissions,
-and other environmental impacts. It is important to understand this to
-understand the debate around AI energy usage. Section 5 surveys some available
-software tools for measuring energy and environmental impacts. Section 6
-makes recommendations and comments on issues of implementation of the
-proposed framework developed in Section 5. Finally, Section 7 concludes.
+  decription: The chapter reviews some key papers on AI energy use and emissions. After this, the concept of computational complexity is introduced, and an overview of results on how computationally intensive different AI technologies and computing technologies are is presented. The measurement of AI impacts on energy, emissions, and other environmental impacts is considered. Some available software tools for measuring energy and environmental impacts are surveyed. Recommendations and comments on issues of implementation of the proposed framework are made.
   link:
     url: https://www.routledge.com/AI-Powered-Sustainability-Strategies-for-Modern-Businesses/Khare/p/book/9781041202301
     display: Beard, R. Measuring the impact of AI on Energy and Sustainability: A guide for managers, in. Khare, A. AI-Powered Sustainability
