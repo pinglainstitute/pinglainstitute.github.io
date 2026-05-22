@@ -9,23 +9,23 @@
   preprint: 0
 
 - title: "Machine learning-based correlation analysis of decadal cyclone intensity with sea surface temperature: data and tutorial"
-  image:
+  image: SERRA2026.png
   authors: Wu, J., Chandra, R.
   description: In this paper, we present an analysis of the relationship between increasing global SST and cyclone genesis using linear regression and machine learning models. We extract and curate a dataset of tropical cyclones across selected ocean basins with their associated SST over the past 40 years. We provide correlation analysis using linear regression and visualisation strategies. Our preliminary results show a positive correlation between SST and high wind speed (Category 5 Cyclones) across the South Indian Ocean and Northwest Pacific Ocean basins via linear regression and machine learning models. 
   link:
     url: https://doi.org/10.1007/s00477-026-03251-w
     display: Wu, J., Chandra, R. (2026) Machine learning-based correlation analysis of decadal cyclone intensity with sea surface temperature, data and tutorial. Stochastic Environmental Research and Risk Assessment, 40, 130.
-  highlight: 0
+  highlight: 1
   preprint: 0
 
 - title: "Data Science First: Using Language Models in AI-Enabled Applications"
-  image:
+  image: DSF_thumbnail.png
   authors: Hawkins, J.
   description: Data Science First, Using Language Models in AI-Enabled Applications explains how practicing data scientists can integrate language models in data science workflows without abandoning essential principles of reliability, accuracy, and efficacy.
   link:
     url: https://www.amazon.com.au/Data-Science-First-AI-Enabled-Applications/dp/1394390475
     display: Hawkins, J. Data Science First, Using Language Models in AI Enabled Applications. John Wiley & Sons, 2026
-  highlight: 0
+  highlight: 1
   preprint: 0
   
 - title: "Deep learning framework for crater detection and identification on the Moon and Mars"
@@ -35,7 +35,7 @@
   link:
     url: https://doi.org/10.1038/s44453-026-00036-x
     display: Ma, Y., Guo, J., Yu, Z. et al. Deep learning framework for crater detection and identification on the Moon and Mars. npj Space Explor. 2, 19 (2026)
-  highlight: 1
+  highlight: 0
   preprint: 0
 
 - title: "Landcover classification and change detection using remote sensing and machine learning: a case study of Western Fiji"
@@ -45,7 +45,7 @@
   link:
     url: https://doi.org/10.1016/j.asr.2026.03.024
     display: Advances in Space Research, Volume 77, Issue 9, 1 May 2026, Pages 8521-8537
-  highlight: 1
+  highlight: 0
   preprint: 0
   
 - title: "Evaluation of google translate for Mandarin Chinese translation using sentiment and semantic analysis"
@@ -55,7 +55,7 @@
   link: 
     url: https://doi.org/10.1016/j.nlp.2025.100188
     display: Natural Language Processing Journal, Volume 13, December 2025, 100188 
-  highlight: 1
+  highlight: 0
   preprint: 0
   
 - title: "Longitudinal abuse and sentiment analysis of Hollywood movie dialogues using language models"
@@ -65,7 +65,7 @@
   link: 
     url: https://www.sciencedirect.com/science/article/pii/S266682702500132X
     display: Machine Learning with Applications, Volume 22, December 2025, 100749
-  highlight: 1  
+  highlight: 0  
   preprint: 0
 
 - title: "Unsupervised Machine Learning Framework for Identification of Spatial Distribution of Minerals on Mars"
@@ -75,7 +75,7 @@
   link:
     url: https://doi.org/10.3390/rs17213578
     display: Remote Sensing 17 (21) (2025) 3578 https://doi.org/10.3390/rs17213578
-  highlight: 1
+  highlight: 0
   preprint: 0
 
 - title: "HP-BERT: A framework for longitudinal study of Hinduphobia on social media via language models"
@@ -85,7 +85,7 @@
   link:
     url: https://ieeexplore.ieee.org/abstract/document/11192418
     display: IEEE Access, vol. 13, pp. 175309-175335, 2025, https://doi.org/10.1109/ACCESS.2025.3617514
-  highlight: 1
+  highlight: 0
   preprint: 0
 
 - title: "An Evaluation of LLMs and Google Translate for Translation of Selected Indian Languages via Sentiment and Semantic Analyses"
