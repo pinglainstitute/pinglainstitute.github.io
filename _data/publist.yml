@@ -11,10 +11,10 @@
   - title: "Machine learning-based correlation analysis of decadal cyclone intensity with sea surface temperature: data and tutorial"
     image:
     authors: Wu, J., Chandra, R.
-    description: In this paper, we pres-ent an analysis of the relationship between increasing global SST and cyclone genesis using linear regression and machinelearning models. We extract and curate a dataset of tropical cyclones across selected ocean basins with their associatedSST over the past 40 years. We provide correlation analysis using linear regression and visualisation strategies. Our pre-liminary results show a positive correlation between SST and high wind speed (Category 5 Cyclones) across the SouthIndian Ocean and Northwest Pacific Ocean basins via linear regression and machine learning models. 
+    description: In this paper, we pres-ent an analysis of the relationship between increasing global SST and cyclone genesis using linear regression and machinelearning models. We extract and curate a dataset of tropical cyclones across selected ocean basins with their associated SST over the past 40 years. We provide correlation analysis using linear regression and visualisation strategies. Our preliminary results show a positive correlation between SST and high wind speed (Category 5 Cyclones) across the SouthIndian Ocean and Northwest Pacific Ocean basins via linear regression and machine learning models. 
     link:
       url: https://doi.org/10.1007/s00477-026-03251-w
-      display: Wu, J., Chandra, R. (2026) Machine learning-based correlation analysis of decadal cyclone intensity with sea surface temperature: data and tutorial. Stochastic Environmental Research and Risk Assessment, 40:130.
+      display: Wu, J., Chandra, R. (2026) Machine learning-based correlation analysis of decadal cyclone intensity with sea surface temperature, data and tutorial. Stochastic Environmental Research and Risk Assessment, 40, 130.
     highlight: 0
     preprint: 0
 
