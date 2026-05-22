@@ -18,16 +18,6 @@
     highlight: 0
     preprint: 0
 
-  - title: "Data Science First: Using Language Models in AI-Enabled Applications"
-    image:
-    authors: Hawkins, J.
-    description: Data Science First Using Language Models in AI-Enabled Applications explains how practicing data scientists can integrate language models in data science workflows without abandoning essential principles of reliability, accuracy, and efficacy.
-    link:
-      url: https://www.amazon.com.au/Data-Science-First-AI-Enabled-Applications/dp/1394390475
-      display: Hawkins, J. (2026). Data Science First: Using Language Models in AI-Enabled Applications. John Wiley & Sons.
-    highlight: 0
-    preprint: 0
-
 - title: "Deep learning framework for crater detection and identification on the Moon and Mars"
   image: moonandmars.png
   authors: Ma, Y., Guo, J.,Yu, Z. Chandra, R.
