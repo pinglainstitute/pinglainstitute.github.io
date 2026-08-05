@@ -138,13 +138,23 @@
   highlight: 0
   preprint: 0
 
-- title: Evaluation of clustering methods for segmentation of hyperspectral remote sensing data
+- title: "Evaluation of clustering methods for segmentation of hyperspectral remote sensing data"
   image:
   decription:  In this paper, we provide an empirical study of prominent clustering methods, including variations of k-means clustering, balanced clustering, and agglomerative clustering, applied to the Indian Pines and Pavia University hyperspectral benchmark datasets following a common dimensionality-reduction and hyperparameter-optimisation framework. Our results reveal that centroid-based methods, namely K-Means and Mini-Batch K-Means, consistently provide the strongest balance of clustering quality, robustness, and computational efficiency across both datasets, with Gaussian Mixture Models achieving comparable external validation scores, while hierarchical approaches such as Bisecting K-Means and BIRCH are more variable and less consistent. These findings suggest that, once effective dimensionality reduction is applied, computationally efficient clustering algorithms remain highly competitive with more sophisticated alternatives for hyperspectral image segmentation.
   authors: Ehsan Farahbakhsh, Pulkit Sharma, Aman Agrawal, Rohitash Chandra
   link: 
     url: https://www.researchsquare.com/article/rs-10413878/v1
-    display: https://doi.org/10.21203/rs.3.rs-10413878/v1
+    display:  Evaluation of clustering methods for segmentation of hyperspectral remote sensing data https://doi.org/10.21203/rs.3.rs-10413878/v1
+  highlight: 0
+  preprint: 1
+
+- title: "Detoxify: A framework for abusive text transformation using LLMs"
+  image: 
+  description: In this study, we present Detoxify: a framework that employs LLMs to transform abusive text (tweets and reviews) containing hate speech and profanity into non-abusive text while retaining the original intent. We evaluate the performance of four state-of-the-art LLMs, such as Gemini, GPT-4o, DeekSeek and Groq, on their ability to identify abusive text. We aim to transform and obtain a text that is clean of abusive and inappropriate content, but maintains a similar level of sentiment and semantics, i.e. the transformed text needs to maintain its message. Afterwards, we evaluate the raw and transformed datasets with sentiment analysis and semantic analysis. Our results show Groq provides vastly different results when compared with other LLMs. We have identified similarities between GPT-4o and DeepSeek. Groq stood out as the most distinct, as it often restructured sentences with excessive positive phrasing, with the original context lost or altered.
+  authors: Rohitash Chandra, Jiyong Choi, Jayesh Sonawane
+  link: 
+    url: https://arxiv.org/abs/2507.10177
+    display: Detoxify: A framework for abusive text transformation using LLMs, https://doi.org/10.48550/arXiv.2507.10177
   highlight: 0
   preprint: 1
 
