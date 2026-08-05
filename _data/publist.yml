@@ -138,6 +138,16 @@
   highlight: 0
   preprint: 0
 
+- title: Evaluation of clustering methods for segmentation of hyperspectral remote sensing data
+  image:
+  decription:  In this paper, we provide an empirical study of prominent clustering methods, including variations of k-means clustering, balanced clustering, and agglomerative clustering, applied to the Indian Pines and Pavia University hyperspectral benchmark datasets following a common dimensionality-reduction and hyperparameter-optimisation framework. Our results reveal that centroid-based methods, namely K-Means and Mini-Batch K-Means, consistently provide the strongest balance of clustering quality, robustness, and computational efficiency across both datasets, with Gaussian Mixture Models achieving comparable external validation scores, while hierarchical approaches such as Bisecting K-Means and BIRCH are more variable and less consistent. These findings suggest that, once effective dimensionality reduction is applied, computationally efficient clustering algorithms remain highly competitive with more sophisticated alternatives for hyperspectral image segmentation.
+  authors: Ehsan Farahbakhsh, Pulkit Sharma, Aman Agrawal, Rohitash Chandra
+  link: 
+    url: https://www.researchsquare.com/article/rs-10413878/v1
+    display: https://doi.org/10.21203/rs.3.rs-10413878/v1
+  highlight: 0
+  preprint: 1
+
 - title: "Global Ease of Living Index: a machine learning framework for longitudinal analysis of major economies"
   image:
   description: In this study, we present an approach to quantifying the quality of life through the Global Ease of Living Index that combines various socio-economic and infrastructural factors into a single composite score. Our index utilises economic indicators that define living standards, which could help in targeted interventions to improve specific areas. We present a machine learning framework for addressing the problem of missing data for some of the economic indicators for specific countries. We then curate and update the data and use a dimensionality reduction approach (principal component analysis) to create the Ease of Living Index for major economies since 1970. Our work significantly adds to the literature by offering a practical tool for policymakers to identify areas needing improvement, such as healthcare systems, employment opportunities, and public safety
