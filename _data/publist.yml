@@ -150,7 +150,7 @@
 
 - title: "Detoxify: A framework for abusive text transformation using LLMs"
   image: 
-  description:
+  description: In this study, we present Detoxify, a framework that employs LLMs to transform abusive text (tweets and reviews) containing hate speech and profanity into nonabusive text while retaining the original intent.
   authors: Rohitash Chandra, Jiyong Choi, Jayesh Sonawane
   link: 
     url: https://arxiv.org/abs/2507.10177
