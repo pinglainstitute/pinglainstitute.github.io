@@ -1,10 +1,20 @@
+- title: "Looking Ahead When It Is Safe, An Uncertainty Aware Paradigm for Blood Glucose Prediction with Dynamic Horizon Control"
+  image:
+  authors: Ghimire, S., Celik, T., Gerdes, M., & Omlin, C. W.
+  description:  In this work, we propose a novel approach for adaptive horizon selection, applied to BGL prediction, employing a deep learning model. It employs evidential learning-based uncertainty quantification that decompose uncertainty into epistemic and aleatoric. Each set of models is trained to predict blood glucose levels at different future time steps, each providing both a point prediction and an associated uncertainty measure. 
+  link: 
+    url: https://doi.org/10.3390/make8060145
+    display: Machine Learning and Knowledge Extraction, 8(6), 145.
+  highlight: 0
+  preprint: 0
+
 - title: "Personalized Blood Glucose Prediction Using Physiology-Informed Machine Learning"
   image: 
   authors: Ghimire, S., Celik, T., Gerdes, M., & Omlin, C. W.
   description: In this work, we present an approach for predicting blood glucose levels (BGLs) leveraging the concept of physiology informed neural networks (PINNs). This approach addresses the challenge of BGL prediction by incorporating the parameters of insulin and meal dynamics within the architecture of a predictive network. It employs a two-stage learning approach for modeling physiology and predicting BGLs.
   link:
     url: https://doi.org/10.3390/make8040096
-    display: Ghimire, S., Celik, T., Gerdes, M., & Omlin, C. W. (2026). Personalized Blood Glucose Prediction Using Physiology-Informed Machine Learning. Machine Learning and Knowledge Extraction, 8(4), 96.
+    display: Machine Learning and Knowledge Extraction, 8(4), 96.
   highlight: 0
   preprint: 0
 
