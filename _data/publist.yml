@@ -1,3 +1,15 @@
+Ghimire, S., Celik, T., Gerdes, M., & Omlin, C. W. (2026). Personalized Blood Glucose Prediction Using Physiology-Informed Machine Learning. Machine Learning and Knowledge Extraction, 8(4), 96.
+
+- title: "Personalized Blood Glucose Prediction Using Physiology-Informed Machine Learning"
+  image: 
+  authors: Ghimire, S., Celik, T., Gerdes, M., & Omlin, C. W.
+  description: In this work, we present an approach for predicting blood glucose levels (BGLs) leveraging the concept of physiology informed neural networks (PINNs). This approach addresses the challenge of BGL prediction by incorporating the parameters of insulin and meal dynamics within the architecture of a predictive network. It employs a two-stage learning approach for modeling physiology and predicting BGLs.
+  link:
+    url: https://doi.org/10.3390/make8040096
+    display: Ghimire, S., Celik, T., Gerdes, M., & Omlin, C. W. (2026). Personalized Blood Glucose Prediction Using Physiology-Informed Machine Learning. Machine Learning and Knowledge Extraction, 8(4), 96.
+  highlight: 0
+  preprint: 0
+
 - title: "Measuring the impact of AI on Energy and Sustainability: A guide for managers"
   image:
   authors: Beard, R.
