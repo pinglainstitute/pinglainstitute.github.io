@@ -158,7 +158,17 @@
   highlight: 0
   preprint: 0
 
-- title: "Evaluation of clustering methods for segmentation of hyperspectral remote sensing data"
+- title: "When the Warrior Trembles: Mental Health Lessons from Arjuna and Krishna"  
+  image:
+  description: This paper examines the Bhagavad Gita as an early, profound framework for understanding mental health through the dialogue between the trembling warrior Arjuna and Sri Krishna on the battlefield of Kurukshetra. Arjuna’s paralysis, despair, and moral conflict closely parallel modern concepts of anxiety, depression, and moral injury—defined as psychological harm arising from actions that violate deeply held ethical values. 
+  authors: Sushrut Badhe
+  link: 
+    url: http://dx.doi.org/10.2139/ssrn.6090626
+    display: Available at SSRN: https://ssrn.com/abstract=6090626
+  highlight: 0
+  preprint: 1
+
+  - title: "Evaluation of clustering methods for segmentation of hyperspectral remote sensing data"
   image:
   decription:  In this paper, we provide an empirical study of prominent clustering methods, including variations of k-means clustering, balanced clustering, and agglomerative clustering, applied to the Indian Pines and Pavia University hyperspectral benchmark datasets following a common dimensionality-reduction and hyperparameter-optimisation framework. Our results reveal that centroid-based methods, namely K-Means and Mini-Batch K-Means, consistently provide the strongest balance of clustering quality, robustness, and computational efficiency across both datasets, with Gaussian Mixture Models achieving comparable external validation scores, while hierarchical approaches such as Bisecting K-Means and BIRCH are more variable and less consistent. These findings suggest that, once effective dimensionality reduction is applied, computationally efficient clustering algorithms remain highly competitive with more sophisticated alternatives for hyperspectral image segmentation.
   authors: Ehsan Farahbakhsh, Pulkit Sharma, Aman Agrawal, Rohitash Chandra
