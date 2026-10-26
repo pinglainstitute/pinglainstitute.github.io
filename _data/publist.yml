@@ -4,7 +4,7 @@
   description: We present an ensemble quantile-based deep learning framework that addresses large-scale streamflow forecasts using quantile regression for uncertainty projections in prediction. We evaluate selected univariate and multivariate deep learning models and catchment strategies. We implement a multistep time-series prediction model using the CAMELS dataset for selected catchments across Australia. 
   link:
     url: https://link.springer.com/article/10.1007/s00477-026-03396-8
-    display: Stochastic Environmental Research and Risk Assessment (2026) 40: 260.
+    display: Stochastic Environmental Research and Risk Assessment (2026) 40, 260.
   highlight:
   preprint: 0
   
