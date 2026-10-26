@@ -1,4 +1,4 @@
-- title: "Ensemble quantile-based deep learning framework for streamflowand flood prediction in Australian catchments"
+- title: "Ensemble quantile-based deep learning framework for streamflow and flood prediction in Australian catchments"
   image:
   authors: Rohitash Chandra, Arpit Kapoor, Siddharth Khedkar, Jim Ng & R. Willem Vervoort
   description: We present an ensemble quantile-based deep learning framework that addresses large-scale streamflow forecasts using quantile regression for uncertainty projections in prediction. We evaluate selected univariate and multivariate deep learning models and catchment strategies. We implement a multistep time-series prediction model using the CAMELS dataset for selected catchments across Australia. 
